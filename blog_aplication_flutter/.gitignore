@@ -1,0 +1,106 @@
+<<<<<<< HEAD
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+=======
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+>>>>>>> cad06d6 (frontend+backend)
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+<<<<<<< HEAD
+# VS Code related
+.vscode/
+# User-specific files
+*.log
+# macOS related files
+.DS_Store
+# iOS related files
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app_ios.framework
+ios/Flutter/app_ios.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+# Android related files
+.android/
+app/google-services.json
+app/*.keystore
+# Web related files
+web/.dart_tool/
+web/.packages
+web/build/
+# Windows related files
+windows/.dart_tool/
+windows/.packages
+windows/build/
+windows/flutter/GeneratedPluginRegistrant.*
+# Linux related files
+linux/.dart_tool/
+linux/.packages
+linux/build/
+linux/flutter/GeneratedPluginRegistrant.*
+# macOS related files
+macos/.dart_tool/
+macos/.packages
+macos/build/
+macos/Flutter/GeneratedPluginRegistrant.*
+# Miscellaneous
+*.swp
+*.tmp
+*.temp
+*.orig
+*.bak
+*.swp
+*.swo
+*~
+=======
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+>>>>>>> cad06d6 (frontend+backend)
